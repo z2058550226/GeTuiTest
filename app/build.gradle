@@ -2,7 +2,6 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
     id("newlens")
-//    id("bytex.method_call_opt")
 }
 
 android {
